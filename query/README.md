@@ -1,4 +1,4 @@
-# SQL Queries
+# SQL Querie
 
 This folder contains the SQL exploration used to identify churn drivers before building predictive models.
 
