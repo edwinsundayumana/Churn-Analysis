@@ -30,9 +30,9 @@ Telco Customer Churn dataset (Kaggle) — 7,043 customers, including demographic
 - The model correctly identifies 212 of 374 actual churners in the test set (56.7% recall), while maintaining 65.8% precision — in a business context, this means roughly half of at-risk customers could be flagged for proactive retention outreach
 
 ## Visualizations
-![Feature Importance](images/feature_importance.png)
-![ROC Comparison](images/roc_comparison.png)
-![Confusion Matrix](images/confusion_matrix.png)
+![Feature Importance](figures/feature_importance.png)
+![ROC Comparison](figures/roc_comparison.png)
+![Confusion Matrix](figures/confusion_matrix.png)
 
 ## Tools Used
 SQL Server & SSMS · Python (pandas, scikit-learn, XGBoost) · Matplotlib, Seaborn
